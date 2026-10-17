@@ -1,0 +1,13 @@
+name = "Farmer’s Delight × MineColonies Compatibility Patch"
+filename = "mcfd-compat-0.1.6-alpha.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tLL477eL/versions/sQKBpuSo/mcfd-compat-0.1.6-alpha.jar"
+hash-format = "sha512"
+hash = "460d97f8e670d2f8a1d78f83fed20d0fe599fff43e5538045486572fd95a4d7a0e176aff785d1948c1c484311cd9385587ed71c67a11d9e9259f4c58914372bf"
+
+[update]
+[update.modrinth]
+mod-id = "tLL477eL"
+version = "sQKBpuSo"

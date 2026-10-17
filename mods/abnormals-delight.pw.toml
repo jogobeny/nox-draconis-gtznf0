@@ -1,0 +1,13 @@
+name = "Abnormals Delight"
+filename = "abnormals_delight-1.21.1-6.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ts3qjo5t/versions/Awq3tnNj/abnormals_delight-1.21.1-6.0.3.jar"
+hash-format = "sha512"
+hash = "9f00bbfbe85140c7eea8b6c402c89b0eaf74f68f2109ef6e049d7159187e4bbcca150db65aca96b589c8d827394a91e20d8b407f98f381c5ff21b71ac32e933f"
+
+[update]
+[update.modrinth]
+mod-id = "ts3qjo5t"
+version = "Awq3tnNj"

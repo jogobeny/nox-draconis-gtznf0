@@ -1,0 +1,13 @@
+name = "Integrated Dungeons Arise"
+filename = "IDA v2.1.2-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uG4njWFR/versions/FhlO1lNU/IDA%20v2.1.2-1.21.1.jar"
+hash-format = "sha512"
+hash = "66620098dc19fa18e0205659daa05caf2f3032ba6fb67671fa88626beeb4b734ae1534514f66db35173d15e20afcdc55aea92a4778a3fcf0a50cdf6496dfe03a"
+
+[update]
+[update.modrinth]
+mod-id = "uG4njWFR"
+version = "FhlO1lNU"

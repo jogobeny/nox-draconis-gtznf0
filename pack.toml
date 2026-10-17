@@ -1,0 +1,13 @@
+name = "nox-draconis-gtznf0"
+author = "BOBEK"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6431cddea72a6ed2aef07e5d8c0160c42684295f845a94b47db619f052dc59a2"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.252"

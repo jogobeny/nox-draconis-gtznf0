@@ -1,0 +1,13 @@
+name = "Eternal Starlight's Delight"
+filename = "eternal_starlight_delight-neoforge-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YylITkmH/versions/MMPpDCVb/eternal_starlight_delight-neoforge-1.4.0.jar"
+hash-format = "sha512"
+hash = "eb01e0ac5c994492a3880b84cf56a1ff643b2c67c824b629b9aea6054dfdd69f6ff47ebbd5399919a760327249353d1b9414f463b1dc6e3058381e86a11bc9d4"
+
+[update]
+[update.modrinth]
+mod-id = "YylITkmH"
+version = "MMPpDCVb"

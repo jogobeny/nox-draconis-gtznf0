@@ -1,0 +1,13 @@
+name = "Nether Descent"
+filename = "Nether-Descent-NeoForge-1.0.8-mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OMC5QQv5/versions/BlogyEbv/Nether-Descent-NeoForge-1.0.8-mc1.21.1.jar"
+hash-format = "sha512"
+hash = "4b5827be4e873c99e98e412096ca8ee520ab58e02b96796ceccf5acb4a41d85e2a81636bc20919dfaa4691de76d240bc285c3b68c7552255d07cb33d07f0ca76"
+
+[update]
+[update.modrinth]
+mod-id = "OMC5QQv5"
+version = "BlogyEbv"
