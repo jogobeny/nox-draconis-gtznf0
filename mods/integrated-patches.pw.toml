@@ -1,13 +1,13 @@
 name = "Integrated Patches"
-filename = "integrated_patches v1.1.0-1.21.1.jar"
+filename = "integrated_patches v1.2.0-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Yysh5NsL/versions/PWBj9SZV/integrated_patches%20v1.1.0-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/Yysh5NsL/versions/IFnJrqmy/integrated_patches%20v1.2.0-1.21.1.jar"
 hash-format = "sha512"
-hash = "446269749e4646f1b511d9acea02bbcc6c46c4cf049e8282c3f1f1b0032bef87ff7ce4d55202eec2d04d5532543fe4233f253023c2eb932a5ff991f947c1b946"
+hash = "e8a9a696ea372e620bfee2f1f3e61b32b3025e898193fec513a84a0f30a244b9404a1fb31cc5117faaea3510a3f4e6e4ecb44ffa251c04744944cea0d0ea8d37"
 
 [update]
 [update.modrinth]
 mod-id = "Yysh5NsL"
-version = "PWBj9SZV"
+version = "IFnJrqmy"

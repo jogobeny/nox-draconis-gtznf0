@@ -1,13 +1,13 @@
 name = "Apothic Category Compat"
-filename = "apothic_compat-2.0.2.jar"
+filename = "apothic_category_compat-2.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Uonyc6M4/versions/y4nlMQLL/apothic_compat-2.0.2.jar"
+url = "https://cdn.modrinth.com/data/Uonyc6M4/versions/sTeXh64S/apothic_category_compat-2.1.0.jar"
 hash-format = "sha512"
-hash = "2112b702f079b5b08ee21efb2933f59ab15dc3ebeb81cd4bf51213346f3f559967d8e2a3571640fce7bfabcc09b9470348f0a35809931afb23271c5fcb30513c"
+hash = "96552e2a75422100a67ebc8d49293451d8107a2e14e0bb778fd03a715895a7109751fdfa932643501005c49566eaf8f5886c7ac4883279656d7b5d5da4c0592d"
 
 [update]
 [update.modrinth]
 mod-id = "Uonyc6M4"
-version = "y4nlMQLL"
+version = "sTeXh64S"
