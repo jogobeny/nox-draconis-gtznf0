@@ -1,0 +1,13 @@
+name = "ItemClearLag"
+filename = "ICL-1.21.1-neoforge-1.5.4a.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/NJcJEXNc/versions/dASJzRJ5/ICL-1.21.1-neoforge-1.5.4a.jar"
+hash-format = "sha512"
+hash = "6c62350b665a4fd30d381fecb6606e37957b81618cf23b6594daa83844a8875a45568fbd2a8f399efcd65ecd1481acfe24fba75c0c2649c36d17e729921c955d"
+
+[update]
+[update.modrinth]
+mod-id = "NJcJEXNc"
+version = "dASJzRJ5"

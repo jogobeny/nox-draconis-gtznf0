@@ -85,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/apotheosis-x-irons-spellbooks-compat.pw.toml"
-hash = "847a00c2669bb2e69f80250b0315ead99845f5d86bbd9618e6c482a805a4e49f"
+hash = "0ad7a63872a6846bc2fe5beebc9b35deb6e1d61310e5fd6b3d509222b75c6060"
 metafile = true
 
 [[files]]
@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/aquamirae.pw.toml"
-hash = "a0e1131ed6d7fab5650544ee043831f5709eb80d3cf2ea31ce18d7427e5915a2"
+hash = "10dc7afc136128d610ab128437036a531169ed44195386403366336fa831dffb"
 metafile = true
 
 [[files]]
@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-compatible-storage.pw.toml"
-hash = "c4af8c4810587d8c19fdc3dec720687fd575be0c55b625f4d0a8900a39b7f80b"
+hash = "afeff218ff2279635376096eeae0c8963345804d145514d15fa8644d60352616"
 metafile = true
 
 [[files]]
@@ -303,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "43dcf06ad13d90bac2084d9da7faee5fda850cb0a7eeea2031bc310760af56ff"
+hash = "a95238f217d2d24bfaf37cd26df6f578b9d4d7e3eca0ff697bad2ad4f6f84585"
 metafile = true
 
 [[files]]
@@ -333,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
-hash = "3e3f571c6895e35244fb2b5dd400398a119e86d0ca85bce330533accfee3ea37"
+hash = "96c28351a679d5d770f5adfdc9999329938a9d1b8f7c0e4fb410505f42eebc6e"
 metafile = true
 
 [[files]]
@@ -407,6 +407,11 @@ hash = "4623bbc102dd3b7648a96569a1ab49b868774d46355b305ac40c4c79ad1c74e2"
 metafile = true
 
 [[files]]
+file = "mods/itemclearlag.pw.toml"
+hash = "e6b261d52c6c3d313691ee62cc898d9f72493ab9bd99f3de0de2edb0145f441d"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "24d27cb3caf022e154386e473bcca80e15d6ce18fa8e1367b6f9b4dc1594b446"
 metafile = true
@@ -458,7 +463,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "99a91f1e1c59b585f0d64ee30290fbb8a176ba194fd411c1cbddefccb12100d9"
+hash = "789b42a5ad95cae8c646595794ef4a4a3c36d586a471b7821c6bb174c00b4796"
 metafile = true
 
 [[files]]
@@ -543,7 +548,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "0a04f1d0b86262c6dfdbd14e0493d7f4786f24054a95a07ff7b41a7870bb258d"
+hash = "2e0b31d4a3d4298045b368558ce7fe191a13bccb02a4524ca748598a9dcf4ca5"
 metafile = true
 
 [[files]]
@@ -588,12 +593,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "8b40a946e889b44feb2fa3b3f4876ca30f7e276e420b8b8b8b1f2051180c0418"
+hash = "e71aedefbc645a4c7081af6fd02e49ef4bda9f4ee2b8371300f3614a12cc4813"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "92d83ec89c18bd44d038584f47244d827249ea27961b2f63a6222d9d4b09dddc"
+hash = "88f9a977f852f416f10c36cec9383cd933202a9c55308f6db01c3b5f078940e7"
 metafile = true
 
 [[files]]
@@ -608,7 +613,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "50b921dfc5f182c90225ceefa137361092c9f08a4b591f69091f512eac159106"
+hash = "9691c9f55d5d13231a6ee9f03359fbfc1f32878c75bb237e57cedab58c0a15cc"
 metafile = true
 
 [[files]]
@@ -658,7 +663,7 @@ metafile = true
 
 [[files]]
 file = "mods/twilights-flavors-delight.pw.toml"
-hash = "86798186148a27da1e22748d118b69088dc54aac6e104677be705367a4d8079d"
+hash = "331ff598edc215df9ee3d2fad6969d0df0e9898b5c022fa074a6d03307edb887"
 metafile = true
 
 [[files]]

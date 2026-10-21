@@ -20,6 +20,7 @@ Clients use MultiMC/UltimMC with `packwiz-installer-bootstrap` as pre-launch com
 Server only, not in the pack:
 - `perfpatch-0.1.0.jar` — our own server mod, only in hosting `mods/` and `~/mc-server-test/mods`. Keep it when syncing mods.
 - `config/paxi/datapacks/Modpack Data Fixes.zip` — built by `~/Downloads/novy-modpack/build_data_fixes.py` (`build_fixes.py` there builds the Modpack Fixes resource pack).
+- `config/Icl/ICL.json` — ItemClearLag, `"Delay": 300` (default 80 s regenerates if the file is missing).
 - Server configs. `config/servercore/config.yml` is all defaults; deleting it is safe (regenerates). ServerCore silently falls back to defaults for the WHOLE file if one value is invalid (e.g. a mod renamed its MobCategory) — look for `[ServerCore] One of the values in config.yml is not valid` in the log.
 
 ## Local test server
@@ -46,5 +47,7 @@ Server only, not in the pack:
 
 ## History
 - Lag spikes = chunk loading (main thread waits in `getChunkBlocking`), worst after teleport/death. view-distance 18 → 12, C2ME added after a worldgen comparison. Next step was a spark profile with `--thread *` to find who requests chunks off-thread.
+- 2026-10-21: TPS 11–14 caused by hosting GC (Shenandoah `compact`, 29 % of server thread in `ShenandoahPacer`). Support switched startup to G1 + Aikar flags. Changing version/software in the hosting client zone reverts it — check spark JVM args after any such change.
+- 2026-10-21: ItemClearLag added at the user's request (clears ground items every 5 min, keeps no-despawn/no-pickup items).
 - Rejected: AI-Improvements (changes look AI, negligible gain), unattended auto-updates, Chunky pregeneration, Paper/Folia hybrids.
 - Friends&Foes 5 renamed MobCategories `GLARES/RASCALS` → `FRIENDSANDFOES_*` (broke ServerCore config → deleted it).
