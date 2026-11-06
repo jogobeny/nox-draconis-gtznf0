@@ -1,13 +1,13 @@
 name = "AzureLib"
-filename = "azurelib-neo-1.21.1-3.1.22.jar"
+filename = "azurelib-neo-1.21.1-3.2.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/7zlUOZvb/versions/Iw1qShp7/azurelib-neo-1.21.1-3.1.22.jar"
+url = "https://cdn.modrinth.com/data/7zlUOZvb/versions/R8LC8RYk/azurelib-neo-1.21.1-3.2.7.jar"
 hash-format = "sha512"
-hash = "5e3425d239cb53563fba5b702240ed0e35a21f4fa983088bafd22029ac178ef483b27de9379c59b1039f0ed624859226ba560dd94b20bd789c32e799367e70c6"
+hash = "80d81bbcaf9d4296263b48bf0df8272a34cf79f61552b67f1ed17246dccfb0f0f5ae9bf2a259143ac5ed0e3bccf53c5757b2a2e41c22276e2727d702f6985e99"
 
 [update]
 [update.modrinth]
 mod-id = "7zlUOZvb"
-version = "Iw1qShp7"
+version = "R8LC8RYk"
