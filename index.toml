@@ -272,6 +272,11 @@ file = "mods/createcolonies-2.0.7.jar"
 hash = "4a5bc57b82176910d445cb051f31f644f4a6c10183f84e11957070f706cca8b3"
 
 [[files]]
+file = "mods/createnuclear.pw.toml"
+hash = "70a3ec14e121837aefc0c7f32d934bdf50d214d5a8d4c0020ce2d7428a22a051"
+metafile = true
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "08a334ae5565e122d26b819cba16ce784776a10fe100ab2b22de72a5a2bac653"
 metafile = true
