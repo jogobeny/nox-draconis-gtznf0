@@ -572,11 +572,6 @@ hash = "3c24accda8011a6a5e04c49c40e39617bb04ab3a549d8f2e8180d3246fddac39"
 metafile = true
 
 [[files]]
-file = "mods/small-ships.pw.toml"
-hash = "921d02a072ec9644b1557eece1a090f0be59fae479e652b1ba9c5cd16afba8f7"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "7ece7b8e65ac74bc1c705a3e25948ce5772c26ddf148514f29d90920ca1c3866"
 metafile = true
