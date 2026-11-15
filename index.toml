@@ -462,6 +462,11 @@ hash = "560cc25f3100e89c637bc970c234b60f42e042d9318557094bcef8ce955f16a2"
 metafile = true
 
 [[files]]
+file = "mods/jei-worldgen.pw.toml"
+hash = "655e89ea0bf81c0b5c6685f6547dc845daff83f6d42b9b949016ccb1a8e71d28"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "58333a1b7c35bd5940e63b498cf44da16b1f2464c73d72203d1fed84ccfd352a"
 metafile = true
